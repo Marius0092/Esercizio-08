@@ -1,0 +1,28 @@
+body {
+    display: flex;
+}
+
+#yellow {
+    order: -4;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+#red {
+    order: -3;
+    margin-top: 0;
+}
+
+#orange {
+    flex-grow: 2;
+    margin-top: 0;
+}
+
+#blue {
+    margin-right: 0;
+    margin-top: 0;
+}
+
+#green {
+    margin-top: 0;
+}
